@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ddd6e4b3-0f0f-4c84-b793-9a11232feabf" name="myTest" url="http://192.168.124.9:8080/htmlCssBetter">
+        <fileTransfer mountedRoot="D:\web\htmlCssBetter" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
